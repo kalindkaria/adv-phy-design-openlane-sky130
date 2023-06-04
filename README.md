@@ -1,37 +1,37 @@
-# adv-phy-design-openlane-sky130
-## 5-day workshop on Advanced Physical Design using OpenLANE/Sky130
+# 5-day workshop on Advanced Physical Design using OpenLANE/Sky130
 
 <!-- PROJECT LOGO -->
 <br />
+
 <p align="center">
-    <a href="https://www.vlsisystemdesign.com/advanced-physical-design-using-openlane-sky130/" target="_blank">
-    <img src="assets/advanced_physical_design_poster.png" alt="Logo" width="800" height="400">
-    </a>
+		<a href="https://www.vlsisystemdesign.com/advanced-physical-design-using-openlane-sky130/" target="_blank">
+		<img src="assets/advanced_physical_design_poster.png" alt="Logo" width="800" height="400">
+		</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
 <br />
 <details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-workshop">About The Workshop</a>
-    </li>
-    <li>
-      Day-1: Inception of open-source EDA, OpenLANE and Sky130 PDK
-      <ul>
-        <li><a href="day-1/d1_sk1_readme.md">SK1 - How to talk to computers</a></li>
-        <li><a href="day-1/d1_sk2_readme.md">SK2 - SoC design and OpenLANE</a></li>
-        <!-- <li><a href="#day-2">Day 2</a></li>
-        <li><a href="#day-3">Day 3</a></li>
-        <li><a href="#day-4">Day 4</a></li>
-        <li><a href="#day-5">Day 5</a></li> -->
-      </ul>
-    </li>
-    <li>
-        <a href="#acknowledgements">Acknowledgements</a>
-    </li>
-  </ol>
+	<summary>Table of Contents</summary>
+	<ol>
+		<li>
+			<a href="#about-the-workshop">About The Workshop</a>
+		</li>
+		<li>
+			Day-1: Inception of open-source EDA, OpenLANE and Sky130 PDK
+			<ul>
+				<li><a href="day-1/d1_sk1_readme.md">SK1 - How to talk to computers</a></li>
+				<li><a href="day-1/d1_sk2_readme.md">SK2 - SoC design and OpenLANE</a></li>
+				<!-- <li><a href="#day-2">Day 2</a></li>
+				<li><a href="#day-3">Day 3</a></li>
+				<li><a href="#day-4">Day 4</a></li>
+				<li><a href="#day-5">Day 5</a></li> -->
+			</ul>
+		</li>
+		<li>
+			<a href="#acknowledgements">Acknowledgements</a>
+		</li>
+	</ol>
 </details>
 
 <br />
