@@ -19,8 +19,7 @@
       <a href="#about-the-workshop">About The Workshop</a>
     </li>
     <li>
-      <!-- [Day-1](day-1/README.md) -->
-      <a href="day-1/README.md">Day-1: Inception of open-source EDA, OpenLANE and Sky130 PDK</a>
+      Day-1: Inception of open-source EDA, OpenLANE and Sky130 PDK
       <ul>
         <li><a href="day-1/d1_sk1_readme.md">SK1 - How to talk to computers</a></li>
         <li><a href="day-1/d1_sk2_readme.md">SK2 - SoC design and OpenLANE</a></li>
