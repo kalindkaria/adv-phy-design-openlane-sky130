@@ -7,7 +7,6 @@
     <a href="https://www.vlsisystemdesign.com/advanced-physical-design-using-openlane-sky130/" target="_blank">
     <img src="assets/advanced_physical_design_poster.png" alt="Logo" width="800" height="400">
     </a>
-    </a>
 </p>
 
 <!-- TABLE OF CONTENTS -->

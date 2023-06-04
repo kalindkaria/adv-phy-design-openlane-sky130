@@ -30,11 +30,11 @@
     
     <br />
 
-    <center>
-    <img src="../assets/day1_sk2_l1_asic_design_flow.png" alt="ASIC Design Flow" align="center">
+    <p align="center">
+    <img src="../assets/day1_sk2_l1_asic_design_flow.png" alt="ASIC Design Flow">
 
     Fig 1: ASIC Design Flow (source: SKY130_D1_SK2 > SKY_L1 video)
-    </center>
+    </p>
 
     <br />
 
