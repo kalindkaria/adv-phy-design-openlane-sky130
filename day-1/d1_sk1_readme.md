@@ -26,12 +26,13 @@
     <br />
 
     <p align="center">
-    <img src="../assets/day1_sk1_l1_components_inside_chip.png" alt="Chip"><br>
-    Fig 1: Components inside a chip (source: SKY130_D1_SK1 > SKY_L1 video)
+    	<img src="../assets/day1_sk1_l1_components_inside_chip.png" alt="Chip"><br>
+    	Fig 1: Components inside a chip (source: SKY130_D1_SK1 > SKY_L1 video)
     </p>
 
+    
     <br />
-
+    
 - ### `SKY_L2` - Introduction to RISC-V ISA, Instruction Set Architecture
     - `ISA`: ISA is the set of instructions that a processor can execute. In simple words, its the language of the computer through which we communicate with the computer.
     - For example if we want to run a C code on a layout which is the hardware in our computers, there's a certain flow to follow:
@@ -45,10 +46,11 @@
     <br />
 
     <p align="center">
-    <img src="../assets/day1_sk1_l2_c_code_to_layout.png" alt="C Code to hardware layout"><br>
-    Fig 2: C code to hardware layout (source: SKY130_D1_SK1 > SKY_L2 video)
+        <img src="../assets/day1_sk1_l2_c_code_to_layout.png" alt="C Code to hardware layout"><br>
+        Fig 2: C code to hardware layout (source: SKY130_D1_SK1 > SKY_L2 video)
     </p>
 
+    
     <br />
 
 
@@ -68,11 +70,15 @@
     <br />
 
     <p align="center">
-    <img src="../assets/day1_sk1_l3_sw_app_to_hw_flow.png" alt="Software App to Hardware Layout flow"><br>
-    Fig 3: Software App to Hardware Layout flow (source: SKY130_D1_SK1 > SKY_L3 video)
-
-    <br />
-
-    <img src="../assets/day1_sk1_l3_isa_to_layout_flow.png" alt="ISA to Hardware Layout flow"><br>
-    Fig 4: ISA to Hardware Layout flow (source: SKY130_D1_SK1 > SKY_L3 video)
+        <img src="../assets/day1_sk1_l3_sw_app_to_hw_flow.png" alt="Software App to Hardware Layout flow"><br>
+        Fig 3: Software App to Hardware Layout flow (source: SKY130_D1_SK1 > SKY_L3 video)
     </p>
+    
+    <br />
+    
+    <p align="center">
+        <img src="../assets/day1_sk1_l3_isa_to_layout_flow.png" alt="ISA to Hardware Layout flow"><br>
+        Fig 4: ISA to Hardware Layout flow (source: SKY130_D1_SK1 > SKY_L3 video)
+    </p>
+    
+    <br />
