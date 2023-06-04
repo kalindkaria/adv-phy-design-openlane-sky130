@@ -25,11 +25,10 @@
 
     <br />
 
-    <center>
-    <img src="../assets/day1_sk1_l1_components_inside_chip.png" alt="Chip">
-    
+    <p align="center">
+    <img src="../assets/day1_sk1_l1_components_inside_chip.png" alt="Chip"><br>
     Fig 1: Components inside a chip (source: SKY130_D1_SK1 > SKY_L1 video)
-    </center>
+    </p>
 
     <br />
 
@@ -45,11 +44,10 @@
 
     <br />
 
-    <center>
-    <img src="../assets/day1_sk1_l2_c_code_to_layout.png" alt="C Code to hardware layout">
-
+    <p align="center">
+    <img src="../assets/day1_sk1_l2_c_code_to_layout.png" alt="C Code to hardware layout"><br>
     Fig 2: C code to hardware layout (source: SKY130_D1_SK1 > SKY_L2 video)
-    </center>
+    </p>
 
     <br />
 
@@ -69,16 +67,12 @@
 
     <br />
 
-    <center>
-    <img src="../assets/day1_sk1_l3_sw_app_to_hw_flow.png" alt="Software App to Hardware Layout flow">
-
+    <p align="center">
+    <img src="../assets/day1_sk1_l3_sw_app_to_hw_flow.png" alt="Software App to Hardware Layout flow"><br>
     Fig 3: Software App to Hardware Layout flow (source: SKY130_D1_SK1 > SKY_L3 video)
-    </center>
 
     <br />
 
-    <center>
-    <img src="../assets/day1_sk1_l3_isa_to_layout_flow.png" alt="ISA to Hardware Layout flow">
-
+    <img src="../assets/day1_sk1_l3_isa_to_layout_flow.png" alt="ISA to Hardware Layout flow"><br>
     Fig 4: ISA to Hardware Layout flow (source: SKY130_D1_SK1 > SKY_L3 video)
-    </center>
+    </p>
