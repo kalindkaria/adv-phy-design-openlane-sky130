@@ -5,7 +5,7 @@
 
 <p align="center">
 		<a href="https://www.vlsisystemdesign.com/advanced-physical-design-using-openlane-sky130/" target="_blank">
-		<img src="assets/advanced_physical_design_poster.png" alt="Logo" width="800" height="400">
+		<img src="assets/advanced_physical_design_poster.png" alt="advanced_physical_design_poster" width="800" height="400">
 		</a>
 </p>
 <!-- TABLE OF CONTENTS -->
@@ -50,6 +50,6 @@ OpenLane is an automated RTL to GDSII flow based on several components including
 
 ## Acknowledgements
 
-- [Nickson Jose - VSD VLSI Engineer](https://github.com/nickson-jose)
 - [Kunal Ghosh - Co-founder (VSD Corp. Pvt. Ltd)](https://github.com/kunalg123)
+- [Nickson Jose - VSD VLSI Engineer](https://github.com/nickson-jose)
 
