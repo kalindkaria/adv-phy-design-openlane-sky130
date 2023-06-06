@@ -22,10 +22,13 @@
 			<ul>
 				<li><a href="day-1/d1_sk1_readme.md">SK1 - How to talk to computers</a></li>
 				<li><a href="day-1/d1_sk2_readme.md">SK2 - SoC design and OpenLane</a></li>
-				<!-- <li><a href="#day-2">Day 2</a></li>
-				<li><a href="#day-3">Day 3</a></li>
-				<li><a href="#day-4">Day 4</a></li>
-				<li><a href="#day-5">Day 5</a></li> -->
+                <li><a href="day-1/d1_sk3_readme.md">SK3 - Get familiar to open-source EDA tools</a></li>
+			</ul>
+		</li>
+        <li>
+			Day-2: Good floorplan vs bad floorplan and introduction to library cells
+			<ul>
+				<li><a href="day-2/d2_sk1_readme.md">SK1 - Chip Floor planning considerations</a></li>
 			</ul>
 		</li>
 		<li>
@@ -33,6 +36,7 @@
 		</li>
 	</ol>
 </details>
+
 
 <br />
 
