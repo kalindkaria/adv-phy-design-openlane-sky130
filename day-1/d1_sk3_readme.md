@@ -56,7 +56,7 @@
 
   - The precedence order of OpenLane settings are:
 
-    `default_values` > `config.tcl` > `sky130A_sky130_fd_sc_hd_config.tcl`
+    `default_values` < `config.tcl` < `sky130A_sky130_fd_sc_hd_config.tcl`
 
 - Contents of `config.tcl` are as below:
 
